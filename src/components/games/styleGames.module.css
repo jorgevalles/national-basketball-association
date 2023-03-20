@@ -1,0 +1,19 @@
+.img{
+    display: flex;
+    margin-left: 3rem;
+   
+}
+.team{
+    display: flex;
+    justify-content: center;
+}
+.result{
+    font-weight: bold;
+    outline-style: double;
+   
+}
+.date {
+    background-color: black;
+color: white;
+margin-top: 3rem;
+}

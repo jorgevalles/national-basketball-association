@@ -1,0 +1,30 @@
+.Teams {
+  display: flex;
+}
+
+.aa {
+  height: 20px;
+  margin-bottom: 10px;
+}
+.aa:hover {
+  cursor: pointer;
+  background: #ea4646;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 2px gold;
+}
+
+.a:hover {
+  cursor: pointer;
+  height: 20px;
+  background: #ea4646;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 2px gold;
+}
+
+@media (min-width: 425px) {
+  @media (max-width: 768px) {
+    .title {
+      width: 100px;
+    }
+  }
+}

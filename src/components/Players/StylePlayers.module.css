@@ -1,0 +1,18 @@
+.button1,.button2{
+    font-size: 12px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button1:hover{
+    height: 25px;
+    background: #ea4646;
+  border-radius: 5px;
+  box-shadow:2px 2px 2px 2px gold;
+}
+.button2:hover{
+    height: 25px;
+    background: #ea4646;
+  border-radius: 5px;
+  box-shadow:2px 2px 2px 2px gold;  
+}
